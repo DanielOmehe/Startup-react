@@ -1,0 +1,47 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    height: 643px;
+    width: 100%;    
+    background: #2F1893;
+    margin: 0;
+}
+
+.container{
+    width: 60%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.title{
+    height: 200px;
+    width: 780px;
+    left: 315px;
+    top: 100px;
+    margin: 100px auto 157px;
+}
+
+.heading{
+    color: #fff;
+    font-size: 58px;
+    font-weight: 700;
+    padding: 0;
+}
+
+.subHeading{
+    padding: 0;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 24px;
+}
+
+.profile{
+    height: 100.00004577636719px;
+    width: 388px;
+    left: 315px;
+    top: 447px;
+    border-radius: 0px;
+    margin: 0 691px 97px 70px;
+    display: flex;
+    justify-content: space-between;
+}

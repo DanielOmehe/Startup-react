@@ -1,0 +1,23 @@
+.sideBar{
+    height: 1719.60009765625px;
+    width: 40%;
+    margin-left: 100px;
+}
+
+.lastSeen{
+    height: 693px;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 45px;
+}
+
+.button{
+    background: #e93a7d;
+    color: #fff;
+    height: 40px;
+    width: 130px;
+    border-radius: 100px;
+    font-weight: bold;
+    border: 1px solid #e93a7d;
+    cursor: pointer;
+}

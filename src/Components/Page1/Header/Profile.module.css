@@ -1,0 +1,28 @@
+.avatar{
+    margin-right: 23px;
+}
+
+.title{
+    height: 56.199951171875px;
+    width: 265px;
+    margin-bottom: 10px;
+}
+
+.heading{
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.subheading{
+    color: #fff;
+    font-size: 16px;
+}
+
+.icons{
+    height: 24px;
+    width: 124px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

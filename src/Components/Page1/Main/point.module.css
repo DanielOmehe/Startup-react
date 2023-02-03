@@ -1,0 +1,13 @@
+.point{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.icon{margin: 0 0 1rem 1rem;}
+
+.pointText{
+    padding: 1rem 3.4rem 1rem 1.5rem;
+    font-weight: 600;
+    font-size: 18px;
+}

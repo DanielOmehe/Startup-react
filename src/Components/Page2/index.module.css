@@ -1,0 +1,12 @@
+.content{
+    height: 1970px;
+    width: 100%;   
+}
+
+.container{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
